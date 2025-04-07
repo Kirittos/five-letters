@@ -123,3 +123,5 @@ const keyDown = (e) => {
 document.addEventListener("keydown", keyDown);
 
 gameBoard();
+
+console.log("Hello world")
